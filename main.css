@@ -1,0 +1,20 @@
+* {
+  font-family: "Inter", sans-serif;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.logo {
+  text-decoration: none;
+  color: rgb(218, 92, 92);
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.left {
+  width: 50%;
+}
+
+.right {
+  width: 50%;
+}
